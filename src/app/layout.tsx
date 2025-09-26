@@ -1,9 +1,9 @@
 export const metadata = {
-  title: "Marketing",
-  description: "Marketing page description",
+  title: "Next.js",
+  description: "Next.js description",
 };
 
-export default function MarketingLayout({
+export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
