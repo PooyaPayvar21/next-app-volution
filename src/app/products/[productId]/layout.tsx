@@ -1,10 +1,12 @@
-export default function ProductDetailsLayout({ children }: {
-    children: React.ReactNode
+export default function ProductDetailsLayout({
+  children,
+}: {
+  children: React.ReactNode;
 }) {
-    return (
-        <>
-            {children}
-            <h2>Featured Product Layout</h2>
-        </>
-    )
+  return (
+    <>
+      {children}
+      <h2>Featured Product</h2>
+    </>
+  );
 }
