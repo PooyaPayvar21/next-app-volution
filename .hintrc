@@ -29,6 +29,7 @@
     "no-missing-next-legacy-params": "off",
     "no-missing-next-legacy-search-params": "off",
     "no-missing-label": "off",
-    "axe/forms": "off"
+    "axe/forms": "off",
+    "button-type": "off"
   }
 }
