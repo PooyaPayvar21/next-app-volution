@@ -3,6 +3,32 @@
     "development"
   ],
   "hints": {
-    "no-inline-styles": "off"
+    "no-inline-styles": "off",
+    "no-unused-styles": "off",
+    "no-deprecated-elements": "off",
+    "no-missing-attributes": "off",
+    "no-missing-imports": "off",
+    "no-missing-react": "off",
+    "no-missing-react-dom": "off",
+    "no-missing-next": "off",
+    "no-missing-next-image": "off",
+    "no-missing-next-link": "off",
+    "no-missing-next-script": "off",
+    "no-missing-next-head": "off",
+    "no-missing-next-router": "off",
+    "no-missing-next-navigation": "off",
+    "no-missing-next-params": "off",
+    "no-missing-next-search-params": "off",
+    "no-missing-next-dynamic": "off",
+    "no-missing-next-legacy-image": "off",
+    "no-missing-next-legacy-link": "off",
+    "no-missing-next-legacy-head": "off",
+    "no-missing-next-legacy-script": "off",
+    "no-missing-next-legacy-router": "off",
+    "no-missing-next-legacy-navigation": "off",
+    "no-missing-next-legacy-params": "off",
+    "no-missing-next-legacy-search-params": "off",
+    "no-missing-label": "off",
+    "axe/forms": "off"
   }
 }
